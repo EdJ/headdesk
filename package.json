@@ -1,6 +1,6 @@
 {
   "name": "headdesk",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Damnit, Mark",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "headdesk"
   ],
   "bin": {
-    "headdesk": "./bin/headdesk",
+    "headdesk": "./bin/headdesk"
   },
   "author": "EdJ",
   "license": "ISC",
