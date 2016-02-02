@@ -13,6 +13,9 @@
   "keywords": [
     "headdesk"
   ],
+  "bin": {
+    "headdesk": "./bin/headdesk",
+  },
   "author": "EdJ",
   "license": "ISC",
   "bugs": {
