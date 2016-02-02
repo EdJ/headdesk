@@ -1,0 +1,42 @@
+ /$$$$$$$   /$$$$$$  /$$      /$$ /$$   /$$ /$$$$$$ /$$$$$$$$       /$$      /$$  /$$$$$$  /$$$$$$$  /$$   /$$
+| $$__  $$ /$$__  $$| $$$    /$$$| $$$ | $$|_  $$_/|__  $$__/      | $$$    /$$$ /$$__  $$| $$__  $$| $$  /$$/
+| $$  \ $$| $$  \ $$| $$$$  /$$$$| $$$$| $$  | $$     | $$         | $$$$  /$$$$| $$  \ $$| $$  \ $$| $$ /$$/ 
+| $$  | $$| $$$$$$$$| $$ $$/$$ $$| $$ $$ $$  | $$     | $$         | $$ $$/$$ $$| $$$$$$$$| $$$$$$$/| $$$$$/  
+| $$  | $$| $$__  $$| $$  $$$| $$| $$  $$$$  | $$     | $$         | $$  $$$| $$| $$__  $$| $$__  $$| $$  $$  
+| $$  | $$| $$  | $$| $$\  $ | $$| $$\  $$$  | $$     | $$         | $$\  $ | $$| $$  | $$| $$  \ $$| $$\  $$ 
+| $$$$$$$/| $$  | $$| $$ \/  | $$| $$ \  $$ /$$$$$$   | $$         | $$ \/  | $$| $$  | $$| $$  | $$| $$ \  $$
+|_______/ |__/  |__/|__/     |__/|__/  \__/|______/   |__/         |__/     |__/|__/  |__/|__/  |__/|__/  \__/
+
+
+                                                                                           .+o:               
+                                                                                          .dMMm.              
+                                                                                         .dMMN+               
+                                                                                        `hMMMo`               
+                             `````                                                     `yMMMs`                
+                          `/+++/////-.                                                `oMMMy`                 
+                         .+o++//+//::/+-                                              oMMMh`                  
+                        ./+//////::/+/-/+`     `..----.`                             +NMMd.                   
+                        ``      `-/+::o--.  .+ydmNNMMNNdho-`                        /NMMm-                    
+                                   `:o:- `:yNMMMMMMMMMMMMMNd+`                     :NMMMd`                    
+                                     `- .yNMMMMMMMMMMMMMMMMMMd-                   -mMMMMh`                    
+                                       .hMMMMMMMMMMMMMMMMMMMMMN:                 .dMMNdMd`                    
+                                       sMMMMMMMMMMMMMMMMMMMMMMMm.               .dMMMo+Mh`                    
+                               ```   `-NMMMMMMMMMMMMMMMMMMMMMMMM/              `hMMMo +Md`                    
+                            `/ydmmhohmNMMMMMMMMMMMMMMMMMMMMMMMMM+             `yMMMs` +Mh`                    
+                          .+dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN:             oMMMy`  +Mh`                    
+                        -sNMMMMMMMMMMmdhMMMMMMMMMMMMMMMMMMMMMMMy`            oMMMh`   oMd`                    
+                     `/hNMMMMMMMMMMMo   oMMMMMMMMMMMMMMMMMMMMMh---++.       .NMMd.    +Mh`                    
+                   `+mMMMMMMMMMMMNs-     :mMMMMMMMMMMMMMMMMMNs/--o/o+        :o+`     +Mh`                    
+                 -sNMMMMMMMMMMMMo`         /hNMMMMMMMMMMMMdo.+/:-os:s-                +Mh`                    
+  /hmmd+`     `/hMMMMMMMMMMMMMMMm:          `/ohmMMMMMNds/:::+os/:y+/:----------:smmmmNMNmmmms:------------`  
+ +MMMMMMy`  .+mMMMMMMMMMMMMMMMMMMNs`        .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.  
+ +MMMMMMN:`sNMMMMMMMMMMMd+/mMMMMMMMm:       -MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.  
+ .mMMMMMMdyMMMMMMMMMMNy:`  .sMMMMMMMNs`     -MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.  
+  +MMMMMMMMMMMMMMMMms-       /mMMMMMMMd:    -MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.  
+  `dMMMMMMMMMMMMMMN:          .yMMMMMMMNs`  -MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.  
+   /NMMMMMMMMMMMMMN-           `/mMMMMMMMd: -MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.  
+   `hMMMMMMMMMMMMMN-             .yMMMMMMMNo-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.  
+    :NMMMMMMMMMMMMN/.`            `/mMMMMMMm:MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.  
+    `yMMMMMMMMMMMMMNmmdhso+/:-.`    .yNMMMm+.hhhhhhhhhhhMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.  
+     -NMMMMMMMMMMMMMMMMMMMMMNNmmdhso+/+oo/.            .NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.  
+      sMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNmdhyo-         .NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.  

@@ -1,0 +1,22 @@
+{
+  "name": "headdesk",
+  "version": "1.0.0",
+  "description": "Damnit, Mark",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/EdJ/headdesk.git"
+  },
+  "keywords": [
+    "headdesk"
+  ],
+  "author": "EdJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdJ/headdesk/issues"
+  },
+  "homepage": "https://github.com/EdJ/headdesk#readme"
+}
